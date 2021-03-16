@@ -159,9 +159,11 @@ conda create -n py3.6 python=3.6
 
 ### 切换虚拟环境
 
-在Linux下，输入命令`conda activate py3.6`
+```bash
+conda activate py3.6
+```
 
-在Windows下，输入`activate py3.6`
+
 
 ### 安装额外的包
 
@@ -173,9 +175,9 @@ conda install -n py3.6 [package]
 
 ### 关闭虚拟环境
 
-在Linux下，输入命令`conda deactivate`
-
-在Windows下，输入`deactivate`
+```bash
+conda deactivate
+```
 
 ### 删除虚拟环境
 
