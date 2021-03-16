@@ -8,9 +8,13 @@ author:     Le Yuan
 header-img: img/wolf.jpg
 catalog: true
 tags:
-    - Linux, conda, Jupyter
+    - Linux
+    - conda
+    - Jupyter
 
 ---
+
+# 前言
 
 这一篇来介绍一下如何在服务器上配置Jupyter并且在本地远程登录使用。比起直接连接服务器出现的terminal，很多人还是更熟悉有目录结构的界面，比如这样：
 
