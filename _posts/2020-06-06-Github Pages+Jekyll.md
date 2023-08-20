@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     posts
 title:      Github Pages + Jekyll 搭建个人博客主页
 subtitle:   
 date:       2020-06-06
