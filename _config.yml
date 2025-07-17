@@ -111,8 +111,8 @@ analytics:
 author:
   name             : "Yuan Le"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "This page has not been finished yet. Please refer to https://leyuanheart.gitee.io/."
-  location         : "Somewhere"
+  bio              : ""
+  location         : "Fu Zhou, China"
   # email            :
   links:
     - label: "Email"
