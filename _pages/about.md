@@ -21,10 +21,10 @@ classes: wide
 
 期待大家来push我！（别太狠）
 
-附上一些学习资料，如果你对我感兴趣，可以先了解一下相关研究的内容。
+附上一些学习资料，如果你对我感兴趣，可以先了解一下强化学习的内容。
 
 [动手学强化学习](https://hrl.boyuai.com/)
 
 [强化学习纲要](https://www.bilibili.com/video/BV1LE411G7Xj/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=8ffebff58989b39279f930cd4f8d7ba0)
 
-[B站首推！李宏毅大佬花一周讲完！2023公认最通俗易懂的【强化学习教程】
+[B站首推！李宏毅大佬花一周讲完！2023公认最通俗易懂的【强化学习教程】](https://www.bilibili.com/video/BV1ou411874G?spm_id_from=333.788.videopod.episodes&vd_source=8ffebff58989b39279f930cd4f8d7ba0)
